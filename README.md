@@ -1,16 +1,32 @@
-## Hi there 👋
+# Chisom Mmadubuike - AI Agents & Web3 Builder
 
-<!--
-**webski101/Webski101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI agents, agent security tools, and onchain apps.
 
-Here are some ideas to get you started:
+## Current Focus
+- AI agents that take real actions safely
+- Agent security: prompt injection, least privilege, approvals
+- MCP servers and tool integrations
+- Onchain apps (Solidity, Monad)
+- Voice AI products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Projects
+**[Broski](https://github.com/webski101/Broski)** - Accounts-payable agent that allows, holds, or blocks MCP tool calls
+- Blocked a prompt-injected $50k wire in testing
+- Built for ArmorIQ's Flow State hackathon
+
+**[KidCheck](https://github.com/webski101/KidCheck)** - AI agent that helps students find opportunities and check eligibility
+- Live: https://kidcheck-web.onrender.com
+
+**[CallDesk](https://github.com/webski101/Call-Calldesk)** - Voice front desk for businesses
+- Built for the AssemblyAI Voice Hackathon
+- Live: https://call-desk-mu.vercel.app
+
+**[technocore-guideguard](https://github.com/webski101/technocore-guideguard)** - Audits guides and scripts for unsafe key handling
+
+**[Byuggy](https://byuggy.vercel.app/)** - Submitted to Seer's Foreguild contest
+
+## Stack
+TypeScript, Next.js, Solidity, Foundry, Rust, MCP, Vercel
+
+## Contact
+X: [@chiboy0123](https://x.com/chiboy0123)
